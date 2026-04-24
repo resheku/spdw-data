@@ -693,12 +693,12 @@
 }
 {
   "id": 6952,
-  "attendance": 0,
+  "attendance": 5000,
   "card_type_id": 1,
   "broadcaster_schedule_id": 42,
   "postponed_card_id": null,
   "postponed_first_card_id": null,
-  "status_id": 0,
+  "status_id": 1,
   "season": 2026,
   "verified": 0,
   "match_type_id": 1,
@@ -722,14 +722,14 @@
   "stub": 0,
   "url": null,
   "status": {
-    "id": 0,
+    "id": 1,
     "name": {
-      "pl": "Oczekujący",
-      "en": "Upcoming"
+      "pl": "Rozegrany",
+      "en": "Raced"
     },
     "shortname": {
-      "pl": "Oczekujący",
-      "en": "Upcoming"
+      "pl": "Rozegrany",
+      "en": "Raced"
     }
   },
   "broadcaster_schedule": {
@@ -741,7 +741,7 @@
       "no": 1,
       "card_id": 6952,
       "team_id": 9,
-      "match_score": null,
+      "match_score": 37,
       "match_tlt_score": null,
       "team_shortcut": "CZE"
     },
@@ -749,7 +749,7 @@
       "no": 2,
       "card_id": 6952,
       "team_id": 1,
-      "match_score": null,
+      "match_score": 53,
       "match_tlt_score": null,
       "team_shortcut": "TOR"
     }
@@ -788,16 +788,22 @@
     "country_id": null,
     "country_code": null
   },
-  "fortuna_odd": null
+  "fortuna_odd": {
+    "card_id": 6952,
+    "x1": "11.50",
+    "x0": "20.00",
+    "x2": "1.03",
+    "url": "https://www.efortuna.pl/zaklady-bukmacherskie/zuzel/polska-4/ekstraliga-polska/wlokniarz-czestochowa-apator-torun"
+  }
 }
 {
   "id": 6953,
-  "attendance": 0,
+  "attendance": 9053,
   "card_type_id": 1,
   "broadcaster_schedule_id": 11,
   "postponed_card_id": null,
   "postponed_first_card_id": null,
-  "status_id": 0,
+  "status_id": 1,
   "season": 2026,
   "verified": 0,
   "match_type_id": 1,
@@ -821,14 +827,14 @@
   "stub": 0,
   "url": null,
   "status": {
-    "id": 0,
+    "id": 1,
     "name": {
-      "pl": "Oczekujący",
-      "en": "Upcoming"
+      "pl": "Rozegrany",
+      "en": "Raced"
     },
     "shortname": {
-      "pl": "Oczekujący",
-      "en": "Upcoming"
+      "pl": "Rozegrany",
+      "en": "Raced"
     }
   },
   "broadcaster_schedule": {
@@ -840,7 +846,7 @@
       "no": 1,
       "card_id": 6953,
       "team_id": 14,
-      "match_score": null,
+      "match_score": 48,
       "match_tlt_score": null,
       "team_shortcut": "LUB"
     },
@@ -848,7 +854,7 @@
       "no": 2,
       "card_id": 6953,
       "team_id": 5,
-      "match_score": null,
+      "match_score": 42,
       "match_tlt_score": null,
       "team_shortcut": "ZIE"
     }
@@ -887,7 +893,13 @@
     "country_id": null,
     "country_code": null
   },
-  "fortuna_odd": null
+  "fortuna_odd": {
+    "card_id": 6953,
+    "x1": "1.01",
+    "x0": "25.00",
+    "x2": "15.00",
+    "url": "https://www.efortuna.pl/zaklady-bukmacherskie/zuzel/polska-4/ekstraliga-polska/motor-lublin-zielona-gora"
+  }
 }
 {
   "id": 6954,
@@ -3514,7 +3526,7 @@
       "card_id": 6980,
       "team_id": 1,
       "match_score": null,
-      "match_tlt_score": 0,
+      "match_tlt_score": 53,
       "team_shortcut": "TOR"
     },
     {
@@ -3522,7 +3534,7 @@
       "card_id": 6980,
       "team_id": 9,
       "match_score": null,
-      "match_tlt_score": 0,
+      "match_tlt_score": 37,
       "team_shortcut": "CZE"
     }
   ],
@@ -3811,7 +3823,7 @@
       "card_id": 6983,
       "team_id": 5,
       "match_score": null,
-      "match_tlt_score": 0,
+      "match_tlt_score": 42,
       "team_shortcut": "ZIE"
     },
     {
@@ -3819,7 +3831,7 @@
       "card_id": 6983,
       "team_id": 14,
       "match_score": null,
-      "match_tlt_score": 0,
+      "match_tlt_score": 48,
       "team_shortcut": "LUB"
     }
   ],
@@ -6629,7 +6641,7 @@
 }
 {
   "id": 7408,
-  "attendance": 0,
+  "attendance": 4500,
   "card_type_id": 1,
   "broadcaster_schedule_id": 11,
   "postponed_card_id": null,
@@ -6724,11 +6736,5 @@
     "country_id": null,
     "country_code": null
   },
-  "fortuna_odd": {
-    "card_id": 7408,
-    "x1": "2.06",
-    "x0": "10.00",
-    "x2": "1.95",
-    "url": "https://www.efortuna.pl/zaklady-bukmacherskie/zuzel/polska-4/ekstraliga-polska/zielona-gora-gkm-grudziadz"
-  }
+  "fortuna_odd": null
 }
